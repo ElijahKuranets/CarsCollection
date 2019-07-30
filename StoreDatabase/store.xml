@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Products>
+    <Id>1</Id>
+    <ModelName>DeLorean DMC-12</ModelName>
+    <Year>1983</Year>
+    <EngineCapacity>1499.9900</EngineCapacity>
+    <Description>The DMC DeLorean (commonly referred to simply as a "DeLorean", as it was the only model ever produced by the company) is a sports car originally manufactured by John DeLorean's DeLorean Motor Company, or DMC, for the American market from model years 1981 through 1983. The car, designed by Giorgetto Giugiaro, stood out for its gull-wing doors and brushed stainless-steel outer body panels, as well as an innovative fiberglass body structure with a steel backbone chassis. Initially, it became widely known for its disappointing lack of power and performance, which didn't match the expectations created by its looks and price tag, but later – after 1985 – the DeLorean became iconic for its appearances as the time machine in the Back to the Future media franchise.</Description>
+  </Products>
+  <Products>
+    <Id>2</Id>
+    <ModelName>BMW Z-4</ModelName>
+    <Year>2002</Year>
+    <EngineCapacity>2849</EngineCapacity>
+    <Description>The BMW Z models are a line of roadsters manufactured by German automaker BMW. The Z stands for zukunft (German for future),[1] and has been produced in four different series with five generations consisting of roadster, coupé, sports car, and concept variants.
+      The introduction of the M Coupé and M Roadster in the Z3 line marked the first of the Z series to have a high-performance BMW M variant. The first generation Z4 also continued to offer M Coupé and M Roadster vehicles, before being discontinued in the third generation E89 Z4
+    </Description>
+  </Products>
+  <Products>
+    <Id>3</Id>
+    <ModelName>Volkswagen Polo</ModelName>
+    <Year>1975</Year>
+    <EngineCapacity>1700</EngineCapacity>
+    <Description>The Volkswagen Polo is a car produced by the German manufacturer Volkswagen since 1975. It is sold in Europe and other markets worldwide in hatchback, sedan and estate variants. The Polo has been produced in six generations. Related Volkswagen Group models include the Škoda Fabia, SEAT Ibiza and Audi A1.</Description>
+  </Products>
+  <Products>
+    <Id>4</Id>
+    <ModelName>Mercedes-Benz Sprinter</ModelName>
+    <Year>1995</Year>
+    <EngineCapacity>2874</EngineCapacity>
+    <Description>The Mercedes-Benz Sprinter is a light commercial vehicle (van) built by Daimler AG of Stuttgart, Germany as a van, chassis cab, minibus, and pickup truck. In the past the Sprinter has been sold under the Mercedes-Benz, Dodge, Freightliner, and Volkswagen nameplates. In the U.S. it is built from complete knock down (CKD) kits by Freightliner. They are now primarily marketed by Mercedes-Benz. Rebadged and re-engined Sprinters were also sold by Volkswagen Commercial Vehicles as the Volkswagen LT and the Volkswagen Crafter.</Description>
+  </Products>
+</NewDataSet>

@@ -36,7 +36,7 @@
                 <TextBlock Margin="7" Grid.Row="1">Year:</TextBlock>
                 <TextBox Margin="5" Grid.Row="1" Grid.Column="1" Text="{Binding Path=Year}"></TextBox>
                 <TextBlock Margin="7" Grid.Row="2">Engine capacity:</TextBlock>
-                <TextBox Margin="5" Grid.Row="2" Grid.Column="1" Text="{Binding Path=EngineCapacity,StringFormat={}{0:C}}"></TextBox>
+                <TextBox Margin="5" Grid.Row="2" Grid.Column="1" Text="{Binding Path=EngineCapacity}"></TextBox>
                 <TextBlock Margin="7,7,7,0" Grid.Row="3">Description:</TextBlock>
                 <TextBox Margin="7" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" 
                    TextWrapping="Wrap" VerticalScrollBarVisibility="Visible" Text="{Binding Path=Description}"></TextBox>
