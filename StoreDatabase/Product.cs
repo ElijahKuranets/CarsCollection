@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace CarsCollection
+namespace StoreDatabase
 {
     public class Product : INotifyPropertyChanged
     {
